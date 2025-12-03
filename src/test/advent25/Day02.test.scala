@@ -1,5 +1,3 @@
-//> using test.dep org.scalameta::munit::1.2.1
-
 import advent25.Day02
 
 class Day02Test extends munit.FunSuite {
