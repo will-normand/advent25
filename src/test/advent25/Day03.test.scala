@@ -1,6 +1,6 @@
 import advent25.Day03
 
-class Day03mest extends munit.FunSuite {
+class Day03Test extends munit.FunSuite {
   test("joltage") {
     assert(Day03.largestJoltage("987654321111111") == 98)
     assert(Day03.largestJoltage("811111111111119") == 89)
